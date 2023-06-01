@@ -110,5 +110,5 @@ function butt6() {
   let text = document.getElementById("text");
   text.style.backgroundImage = "url('White.jpg')";
 };
-let time = moment(new Date(" Thu Jun 01 2023 10:07:09 GMT+0845 (Australian Central Western Standard Time)"), "YYYYMMDD").fromNow();
+let time = moment(new Date("Thu Jun 01 2023 11:51:46 GMT+0500 (Pakistan Standard Time)"), "YYYYMMDD").fromNow();
 document.getElementById("time").innerHTML = time;
